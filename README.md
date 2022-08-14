@@ -1,9 +1,5 @@
 <h3 align="center">Evote Client</h3>
-<p align="center">Electronic Vote System - HIMA TI Polihasnur</p>
-
-📌 App for client / Voter
-
-<img src="./src/assets/banner.png" width="100%" alt="" />
+<p align="center">Electronic Vote System - Pemuda RT 01</p>
 
 ### About
 Evoting app for voter built using vue js 3 and tailwindcss. 
