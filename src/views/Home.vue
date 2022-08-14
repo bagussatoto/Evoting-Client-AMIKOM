@@ -72,7 +72,7 @@
                <div class="flex items-center gap-4 md:justify-center md:w-6/12 mx-auto">
                   <!-- Thumbnail -->
                   <span class="md:mr-3">
-                     <img :src="profile.gender === 'male' ? 'male.jpg' : 'bagus.png'" class="rounded-full" width="75" />
+                     <img :src="profile.gender === 'male' ? 'male.jpg' : 'female.jpg'" class="rounded-full" width="75" />
                   </span>
                   <!-- Personal Profile -->
                   <div class="text-left">
@@ -110,9 +110,9 @@
 	
   //Render data profile from API
 	const profile = ref({
-		fullname: 'Bagus Budi Satoto',
-		job_name: 'Mahasiswa',
-		status_vote: Done
+		fullname: 'Fulan bin Fulan',
+		job_name: 'Dosen',
+		status_vote: 0
 	})
 	
   //Get start time, finish time and get Event title, get Bnyak account yg sudah memilih 
