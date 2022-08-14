@@ -3,10 +3,10 @@
       <div class="header-wrapper">
 	      <div class="header-brand">
 	         <span>
-	            <img src="/logo.png" width="55" />
+	            <img src="/logo1.png" width="55" />
 	         </span>
 	         <span>
-	            <h1 class="text-gray-50 font-semibold">EVOTING HIMA TI</h1>
+	            <h1 class="text-gray-50 font-semibold">EVOTING PEMUDA</h1>
 	         </span>
          </div>
       </div>
