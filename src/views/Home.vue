@@ -110,9 +110,9 @@
 	
   //Render data profile from API
 	const profile = ref({
-		fullname: 'Fulan bin Fulan',
-		job_name: 'Dosen',
-		status_vote: 0
+		fullname: 'Bagus Budi Satoto',
+		job_name: 'Mahasiswa',
+		status_vote: Done
 	})
 	
   //Get start time, finish time and get Event title, get Bnyak account yg sudah memilih 
