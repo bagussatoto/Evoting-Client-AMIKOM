@@ -1,0 +1,36 @@
+{
+  "name": "evote-client",
+  "version": "1.5.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": {
+    "name": "Oka R. Abdillah",
+    "email": "hans.abdillh05@gmail.com",
+    "url": "https://github.com/or-abdillh/"
+  },
+  "homepage": "https://github.com/or-abdillh/evote-client#evote-client",
+  "bugs": {
+    "url": "https://github.com/or-abdillh/evote-client/issues",
+    "email": "hans.abdillh05@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/or-abdillh/evote-client.git"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "axios": "^0.24.0",
+    "pinia": "^2.0.4",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}

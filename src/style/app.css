@@ -1,0 +1,63 @@
+/* Import Lato font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+/* master reset */
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 24px;
+	font-family: 'Lato', sans-serif;
+}
+
+/* Save color for project */
+:root {
+	--primary: #F2F3F7;
+	--secondary: #2075F5;
+	--tenary:  #176FA4;
+}
+
+/* Body reset background */
+body {
+	background: var(--primary);
+}
+
+/* Custom component button */
+.btn, .btn-sm {
+   @apply px-5 py-2 duration-300 focus:outline-none focus:ring-4 hover:bg-opacity-75 block rounded-lg text-sm flex justify-center items-center gap-1;
+}
+
+.btn {
+	@apply w-full ;
+}
+
+.btn:disabled, .btn-sm:disabled {
+   @apply bg-opacity-50 ring-2 ring-red-200;
+}
+
+/* Animation for SectionCard */
+@keyframes show-animation {
+   from {
+      transform: translateY(100%) scale(.65);
+      opacity: .65;
+   } to {
+      transform: translateY(0) scale(1);
+      opacity: 1;
+   }
+}
+
+.show-animation {
+   animation: show-animation .35s ease-in-out forwards;
+}
+
+/* Class for spinner load animation */
+@keyframes spinner {
+   from {
+      transform: rotate(0deg);
+   } to {
+      transform: rotate(360deg);
+   }
+}
+
+.spinner {
+   animation: spinner 1s infinite;
+}
