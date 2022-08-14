@@ -72,7 +72,7 @@
                <div class="flex items-center gap-4 md:justify-center md:w-6/12 mx-auto">
                   <!-- Thumbnail -->
                   <span class="md:mr-3">
-                     <img :src="profile.gender === 'male' ? 'male.jpg' : 'female.jpg'" class="rounded-full" width="75" />
+                     <img :src="profile.gender === 'male' ? 'male.jpg' : 'bagus.png'" class="rounded-full" width="75" />
                   </span>
                   <!-- Personal Profile -->
                   <div class="text-left">
