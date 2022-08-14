@@ -3,7 +3,7 @@
       <div class="header-wrapper">
 	      <div class="header-brand">
 	         <span>
-	            <img src="/logo1.png" width="55" />
+	            <img src="/amikom.png" width="55" />
 	         </span>
 	         <span>
 	            <h1 class="text-gray-50 font-semibold">EVOTING PEMUDA</h1>
