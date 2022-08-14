@@ -46,9 +46,9 @@
                   <!-- State event belum mulai -->
                   <strong v-if="!isEventStart && !isEventFinish">Akan dimulai pada</strong>
                   <!-- State event telah berakhir -->
-                  <strong v-if="isEventFinish">Event telah berakhir</strong>
+                  <strong v-if="isEventFinish">Event Belum Dimulai</strong>
                   <!-- Countdown Element -->
-                  <p v-if="!isEventFinish" ref="countDownEl">Mon 12 dec 14:00 WITA</p>
+                  <p v-if="!isEventFinish" ref="countDownEl">Mon 15 august 2022 09:00 WIB</p>
                </div>
                <!-- Action button -->
                <div>
