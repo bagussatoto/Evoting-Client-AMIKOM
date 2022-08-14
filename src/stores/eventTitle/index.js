@@ -4,7 +4,7 @@ import { defineStore } from 'pinia'
 export const useEventTitle = defineStore('eventTitle', {
 	state: () => {
 		return {
-			eventTitle: "Event title goes here"
+			eventTitle: "Electronic Vote System Pemuda RT 01"
 		}
 	},
 	actions: {
