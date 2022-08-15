@@ -110,8 +110,8 @@
 	
   //Render data profile from API
 	const profile = ref({
-		fullname: 'Fulan bin Fulan',
-		job_name: 'Dosen',
+		fullname: 'Bagus Budi Satoto',
+		job_name: 'Dosen Informatika',
 		status_vote: 0
 	})
 	
