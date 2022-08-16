@@ -12,7 +12,7 @@
 	}
 </style>
 
-<!----->
+<!--
 <template>
 
 	<main v-if="load" class="fixed inset-0 bg-gray-900 bg-opacity-90 z-50 grid place-items-center">
@@ -23,7 +23,7 @@
 	</main>
 
 </template> 
-
+--.
 
 <script setup>
 
