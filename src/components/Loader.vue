@@ -23,7 +23,7 @@
 	</main>
 
 </template> 
---.
+-->
 
 <script setup>
 
