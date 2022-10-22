@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseURL = 'http://localhost:8080'
+const baseURL = 'https://evoting-client.vercel.app/'
 
 export default {
     //METHOD GET
