@@ -7,18 +7,18 @@
     "serve": "vite preview"
   },
   "author": {
-    "name": "Oka R. Abdillah",
-    "email": "hans.abdillh05@gmail.com",
-    "url": "https://github.com/or-abdillh/"
+    "name": "Bagus Budi Satoto",
+    "email": "bagusbudi1308@gmail.com",
+    "url": "https://github.com/bagussatoto"
   },
-  "homepage": "https://github.com/or-abdillh/evote-client#evote-client",
+  "homepage": "https://github.com/bagussatoto/Evoting-Client-AMIKOM",
   "bugs": {
-    "url": "https://github.com/or-abdillh/evote-client/issues",
-    "email": "hans.abdillh05@gmail.com"
+    "url": "https://github.com/bagussatoto/Evoting-Client-AMIKOM/issues",
+    "email": "bagusbudi1308@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/or-abdillh/evote-client.git"
+    "url": "https://github.com/bagussatoto/Evoting-Client-AMIKOM"
   },
   "dependencies": {
     "autoprefixer": "^10.4.0",
