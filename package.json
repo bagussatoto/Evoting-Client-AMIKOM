@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.0",
-    "axios": "^0.24.0",
+    "axios": "^1.2.1",
     "pinia": "^2.0.4",
     "postcss": "^8.3.11",
     "tailwindcss": "^2.2.19",
